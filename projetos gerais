@@ -1,0 +1,17 @@
+# CHAT – Integração WhatsApp + Chatwoot + IA
+
+Este fluxo n8n automatiza o recebimento de mensagens no WhatsApp, classifica mídias (áudio, texto, imagem) e utiliza IA para respostas inteligentes via Chatwoot.
+
+## Tecnologias e recursos
+- n8n (low-code automation)
+- JavaScript custom functions
+- Integração API REST (WhatsApp, Chatwoot)
+- Banco de Dados: PostgreSQL/Redis
+- IA generativa (GPT-4o)
+
+## Como usar
+- Importe o arquivo `fluxo-enchat.json` no seu n8n.
+- Ajuste credenciais e endpoints conforme o seu ambiente.
+
+## Autor
+Renan Moreira
